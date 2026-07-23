@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/cover.png" alt="Sales Data Analysis Dashboard" width="100%">
+</p>
+
 # 📊 Sales Data Analysis Dashboard
 
 ## 📌 Project Overview
