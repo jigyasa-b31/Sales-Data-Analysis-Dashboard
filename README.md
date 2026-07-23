@@ -127,6 +127,78 @@ Sales-Data-Analysis-Dashboard/
 └── .gitignore
 ```
 
+## 📸 Project Visualizations
+
+### 📈 Monthly Sales Trend
+
+![Monthly Sales Trend](images/monthly_sales_trend.png)
+
+---
+
+### 🌍 Region-wise Sales
+
+![Region Sales](images/region_sales.png)
+
+### 🌍 Region-wise Profit
+
+![Region Profit](images/region_profit.png)
+
+---
+
+### 🛍️ Category-wise Sales
+
+![Category Sales](images/category_sales.png)
+
+### 🛍️ Category-wise Profit
+
+![Category Profit](images/category_profit.png)
+
+---
+
+### 📦 Sub-Category-wise Sales
+
+![Subcategory Sales](images/subcategory_sales.png)
+
+### 📦 Sub-Category-wise Profit
+
+![Subcategory Profit](images/subcategory_profit.png)
+
+---
+
+### 💰 Discount vs Profit
+
+![Discount vs Profit](images/discount_vs_profit.png)
+
+---
+
+### 🗺️ Top States by Sales
+
+![Top States Sales](images/top_states_sales.png)
+
+### 🗺️ Top States by Profit
+
+![Top States Profit](images/top_states_profit.png)
+
+---
+
+### 👥 Top Customers by Sales
+
+![Top Customers Sales](images/top_customers_sales.png)
+
+### 👥 Top Customers by Profit
+
+![Top Customers Profit](images/top_customers_profit.png)
+
+---
+
+### 🚚 Shipping Mode Sales
+
+![Shipping Sales](images/shipping_sales.png)
+
+### 🚚 Shipping Mode Profit
+
+![Shipping Profit](images/shipping_profit.png)
+
 ## 🚀 Future Improvements
 
 - Build an interactive Power BI dashboard.
